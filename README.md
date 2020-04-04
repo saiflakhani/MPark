@@ -18,9 +18,9 @@ Allows for Gate In / Gate Out of a mall with a gateway system, at the simple cli
  - Buzzer should beep, and you're in!
  
 ## Credits
-Ideation:
+#### Ideation:
 - Riyaz Lakhani
-Development
+#### Development
 - Vikas Somani
   
   
