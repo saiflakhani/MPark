@@ -13,7 +13,7 @@ Allows for Gate In / Gate Out of a mall with a gateway system, at the simple cli
   - Buzzer at GPIO 19
 - If you would like to run the script at startup, copy the ```rc.local``` file into ```/etc/```
   
- ### Mobile
+ ### Android
  - Walk close to the raspberry pi
  - Click Enter
  - Buzzer should beep, and you're in!
