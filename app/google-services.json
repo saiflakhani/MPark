@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "467111811281",
+    "firebase_url": "https://mpark-434c3.firebaseio.com",
+    "project_id": "mpark-434c3",
+    "storage_bucket": "mpark-434c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467111811281:android:e6a68c6b1cb4befa",
+        "android_client_info": {
+          "package_name": "com.mpark.mpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467111811281-bgih1mneuoapoft58ikdotv860kn4bq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpark.mpark",
+            "certificate_hash": "fedf8363182f53036583062df31596bf262040b2"
+          }
+        },
+        {
+          "client_id": "467111811281-0ttr606nl3epo6m29t5kshndpd486cip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVYot4PUS3FuKv1cZcXpLjVYhEyE0BUg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467111811281-0ttr606nl3epo6m29t5kshndpd486cip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
