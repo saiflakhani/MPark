@@ -3,7 +3,7 @@ Allows for Gate In / Gate Out of a mall with a gateway system, at the simple cli
 
 ## How to Use
 
-### GATEWAY
+### Gateway
 - Take a raspberry pi
 - Run the python script given in the raspberry pi folder
 - In the GPIO.BOARD format, attach:
@@ -12,7 +12,7 @@ Allows for Gate In / Gate Out of a mall with a gateway system, at the simple cli
   - Blue LED at GPIO 13
   - Buzzer at GPIO 19
   
- ### MOBILE
+ ### Mobile
  - Walk close to the raspberry pi
  - Click Enter
  - Buzzer should beep, and you're in!
